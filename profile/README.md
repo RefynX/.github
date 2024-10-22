@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://discord.gg/Hj7r5JFgTt"><img src="https://img.shields.io/discord/1295685407052136448?style=for-the-badge&logo=discord"></img></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"></img></a>
+  <a href="https://www.linkedin.com/company/refynx"><img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin"></img></a>
   <a href="https://github.com/RefynX"><img src="https://img.shields.io/badge/GitHub-RefynX-181717?style=for-the-badge&logo=github" alt="GitHub RefynX"></img></a>
 </p>
 
