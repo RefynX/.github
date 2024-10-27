@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./RefynX.png" alt="RefynX Logo" width="300">
+  <img src="../images/RefynX.png" alt="RefynX Logo" width="300">
 </p>
 <p align="center"><b>Powered by Developers, Designed for Developers, Shared by Everyone</b></p>
 
